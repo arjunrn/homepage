@@ -6,3 +6,6 @@ bin/
 lib/
 local/
 include/
+.DS_Store
+.Python
+.idea/
