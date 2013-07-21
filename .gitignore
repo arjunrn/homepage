@@ -9,3 +9,4 @@ include/
 .DS_Store
 .Python
 .idea/
+static_media/
